@@ -1,12 +1,10 @@
 # Hugo Habel
 
-Hi, I'm Hugo – I'm a senior software engineer with more than 17 years of experience. As part of my career, I have fulfilled the roles of technical lead, and engineering manager. My area of expertise is front-end development with React, and I’m in the process of immersing myself into native iOS development with Swift and Swift UI. I have experience in the entire process of software development, from requirements to release, in both small and large scale applications. I have worked at some start-ups as well as at larger corporations, always being part of amazing teams.
+Hi, I'm Hugo. I've been a software engineer for more than 18 years. I've fulfilled different roles throughout my career, including technical lead, and engineering manager. I enjoy guiding junior devs to achieve their best, while remaining open to learning and improving myself. While most of my experience lies on the front-end/mobile development side, I'm currently working toward becoming a full stack dev (front-end, back-end, and mobile)
 
 ## Core values
-🗣️ Open communication
 
-🤝 High commitment 
-
-👥 Team work
-
-💎 High-quality work
+- 🗣️ Open communication
+- 🤝 High commitment 
+- 👥 Team work
+- 💎 High-quality work
